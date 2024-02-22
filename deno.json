@@ -1,0 +1,8 @@
+{
+  "name": "@as/is",
+  "version": "0.0.1",
+  "exports": "./lib.ts",
+  "compilerOptions": {
+      "module": "esnext"
+  }
+}
